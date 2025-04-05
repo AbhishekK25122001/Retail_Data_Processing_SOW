@@ -1,0 +1,101 @@
+store_id,store_name,location
+1.0,Store_1,Houston
+2.0,Store_2,Los Angeles
+3.0,Store_3,Los Angeles
+4.0,Store_4,New York
+5.0,Store_5,New York
+6.0,Store_6,Los Angeles
+7.0,Store_7,New York
+8.0,Store_8,New York
+9.0,Store_9,Los Angeles
+10.0,Store_10,Chicago
+11.0,Store_11,Houston
+12.0,Store_12,Houston
+13.0,Store_13,Chicago
+,Store_14,New York
+15.0,Store_15,New York
+16.0,Store_16,New York
+17.0,Store_17,Los Angeles
+18.0,Store_18,Chicago
+19.0,Store_19,Los Angeles
+20.0,Store_20,Los Angeles
+21.0,Store_21,Chicago
+,Store_22,New York
+23.0,Store_23,New York
+24.0,Store_24,Chicago
+25.0,Store_25,Chicago
+26.0,Store_26,Chicago
+27.0,Store_27,Los Angeles
+28.0,Store_28,Chicago
+29.0,Store_29,Los Angeles
+30.0,Store_30,Houston
+31.0,Store_31,Los Angeles
+32.0,Store_32,Chicago
+33.0,Store_33,Houston
+34.0,Store_34,New York
+35.0,Store_35,Chicago
+36.0,Store_36,Los Angeles
+37.0,Store_37,New York
+,Store_38,New York
+39.0,Store_39,New York
+40.0,Store_40,Chicago
+41.0,Store_41,Los Angeles
+42.0,Store_42,Los Angeles
+43.0,Store_43,Houston
+44.0,Store_44,Houston
+45.0,Store_45,Los Angeles
+46.0,Store_46,New York
+47.0,Store_47,Los Angeles
+48.0,Store_48,Chicago
+49.0,Store_49,Los Angeles
+50.0,Store_50,Houston
+51.0,Store_51,Houston
+52.0,Store_52,New York
+53.0,Store_53,Chicago
+54.0,Store_54,Chicago
+55.0,Store_55,Los Angeles
+56.0,Store_56,Houston
+57.0,Store_57,New York
+58.0,Store_58,Chicago
+,Store_59,Chicago
+60.0,Store_60,New York
+61.0,Store_61,New York
+62.0,Store_62,New York
+63.0,Store_63,Los Angeles
+64.0,Store_64,Houston
+65.0,Store_65,Houston
+66.0,Store_66,Houston
+67.0,Store_67,Los Angeles
+68.0,Store_68,Chicago
+69.0,Store_69,Los Angeles
+70.0,Store_70,Houston
+71.0,Store_71,Houston
+72.0,Store_72,Houston
+73.0,Store_73,Houston
+74.0,Store_74,Chicago
+75.0,Store_75,Los Angeles
+76.0,Store_76,New York
+77.0,Store_77,New York
+78.0,Store_78,Chicago
+79.0,Store_79,Chicago
+80.0,Store_80,New York
+81.0,Store_81,Houston
+82.0,Store_82,Chicago
+83.0,Store_83,Chicago
+84.0,Store_84,Houston
+85.0,Store_85,New York
+86.0,Store_86,Los Angeles
+87.0,Store_87,Los Angeles
+88.0,Store_88,Los Angeles
+89.0,Store_89,Chicago
+90.0,Store_90,Los Angeles
+91.0,Store_91,Houston
+92.0,Store_92,Houston
+93.0,Store_93,Los Angeles
+94.0,Store_94,Los Angeles
+,Store_95,Los Angeles
+96.0,Store_96,Los Angeles
+97.0,Store_97,Chicago
+98.0,Store_98,Houston
+99.0,Store_99,New York
+100.0,Store_100,Los Angeles
